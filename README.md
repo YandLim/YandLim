@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚔ YandLim
 I'm an indie backend developer that love tech and learning new things everyday. <br>Built an app is not always about code, sometimes it's about relax and planning <br>the workflow for better code's structure. I love backend because even tho<br>you can't visually see how it work,  it work very well, I want to learn more about<br>Tech and Ai 
 
 
