@@ -12,7 +12,7 @@ I'm an indie backend developer that love tech and learning new things everyday. 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YandLim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<img align="right" height="300" src="https://c.tenor.com/i5PadHjTNmYAAAAC/tenor.gif"  />
+<img align="right" height="250" src="https://c.tenor.com/i5PadHjTNmYAAAAC/tenor.gif"  />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YandLim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YandLim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
