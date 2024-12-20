@@ -12,7 +12,7 @@ I'm an indie backend developer that love tech and learning new things everyday. 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YandLim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<img align="right" height="250" src="https://c.tenor.com/i5PadHjTNmYAAAAd/tenor.gif"  />
+<img align="right" height="250" src="https://d183lnwxwyo5i2.cloudfront.net/e3ccpn%2Fpreview%2F63251724%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1734717031&Signature=ZkFQ2Iw-5oqGAA1FBn1eOUEzE5RNqcaaz2UXBHUB5E~CNmupqEiAzwCy6M~3Y~724P6s0jrGNp2MJO6BEsyuuqN3UHMnHXDHhjsUFnc59Wvy5BNlhb00WuoeZFZJ3kZmiX8-3jo9xQ61tN5C1alBfiipNQcejrDqCW-EKusxOREuCyz01fOYafxCik7Q~QZERogHreve3~FlfhUO6Rw4c7wFzKXZn-7XG7dVSxDB4P~LtHis83BOBumgTpHX2GQG8rHG~bmi-VjrM0MSnWmthTkjXXbziu2fAPJvoONX1oTlRI1aUaNT4QKSypAIG1PWkl0eAvY-YqjxKtlo1jwkQA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ"  />
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YandLim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YandLim&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
