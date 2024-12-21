@@ -12,7 +12,7 @@ I'm an indie backend developer that love tech and learning new things everyday. 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YandLim&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-<img align="right" height="250" src="https://d183lnwxwyo5i2.cloudfront.net/e3ccpn%2Fpreview%2F63251724%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1734717199&Signature=EBBmLl8HVKjA61tVgT1RZLm3VQ1sX7RkZqRjmTH-3QitSqzP4n7lOcf8LtrGcRMog5tgrErMj9Y9kOzLd8dmYuu6WjQE0T7MKWLRhfCroXvGFxtiT8CcjgWDRBQMoPxGklBujc-JKfsxo8rcuiKauqi8HIJCSEpJjCmJq88iqnXzrMU0Tt5RjuBbzog98zNy3iYPsSRKyU4g532bn-EW3vzp2r~UqC2BUxawQD-Vig-0GsH6OBdugqjw2BfpJTUfqtrEmNHfooW822UtWONPCKIJSyRbquEPBs-TZqTnqi8h2EkTrLrmVbJxw3Oo2iTUDbkWr5sX1FHwrHGSz3l5ig__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" />
+<img align="right" height="250" src="https://i.giphy.com/GxKzHM21REPo7czyci.webp" />
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YandLim&theme=dark&hide_border=false)<br/>
