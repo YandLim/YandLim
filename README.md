@@ -6,6 +6,8 @@ I'm an indie backend developer that love tech and learning new things everyday. 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/637833614616297472)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:workacounting001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yandhy-liem-261491339/)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~yourprofileid](https://www.upwork.com/freelancers/~013c822f2074bbec69))
+
 
 
 # 💻 Tech Stack:
