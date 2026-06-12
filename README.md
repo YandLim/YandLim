@@ -68,11 +68,11 @@ Most of what I make runs in the background — connecting services, reacting to 
 			</p>
 		</td>
 	</tr>
-  <tr>
+  	<tr>
 		<td colspan="2" width="100%" valign="top" align="center">
-			<h3><a href="https://github.com/YandLim?tab=repositories"><br>Explore More →</br></a></h3>
+			<h3><a href="https://github.com/YandLim?tab=repositories"><b>Explore More →</b></a></h3>
 			<p><b>Check out the rest of my repos for more interesting backend and automation projects.</b></p>
-      <br>
+      	<br>
 		</td>
 	</tr>
 </table>
