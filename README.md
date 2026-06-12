@@ -85,7 +85,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c822f2074bbec69)
 
 ---
-<img align="right" height="200" src="https://i.giphy.com/GxKzHM21REPo7czyci.webp"/>
+<img align="right" height="210" src="https://i.giphy.com/GxKzHM21REPo7czyci.webp"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
