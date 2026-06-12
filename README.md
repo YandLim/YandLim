@@ -6,7 +6,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 
 ---
 
-## 🧱 What I build
+### 🧱 What I build
 
 - API integrations between platforms and services
 - Event-driven and scheduled automation backends
@@ -16,7 +16,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 
 ---
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -26,7 +26,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 
 ---
 
-## ⭐ Featured Projects
+### ⭐ Featured Projects
 <table>
 	<tr>
 		<td width="50%" valign="top">
@@ -79,7 +79,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 
 ---
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:yandhy.lm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yandhy-liem-261491339/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c822f2074bbec69)
