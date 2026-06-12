@@ -72,7 +72,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 		<td colspan="2" width="100%" valign="top" align="center">
 			<h3><a href="https://github.com/YandLim?tab=repositories"><b>Explore More →</b></a></h3>
 			<p><b>Check out the rest of my repos for more interesting backend and automation projects.</b></p>
-      	<br>
+      		<br>
 		</td>
 	</tr>
 </table>
@@ -85,7 +85,7 @@ Most of what I make runs in the background — connecting services, reacting to 
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013c822f2074bbec69)
 
 ---
-<img align="right" height="220" src="https://i.giphy.com/GxKzHM21REPo7czyci.webp"/>
+<img align="right" height="200" src="https://i.giphy.com/GxKzHM21REPo7czyci.webp"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
